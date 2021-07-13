@@ -1,6 +1,5 @@
 /* blur and darken image */
 .bg-image {
-    filter: blur(3px) brightness(60%);
     height: 720px;
 }
 
